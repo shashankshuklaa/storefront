@@ -1,3 +1,4 @@
+import React from "react";
 /**
  * ProductCard
  * Displays a single product: image, category badge, title, description, and price.
