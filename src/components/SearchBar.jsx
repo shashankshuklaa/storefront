@@ -1,3 +1,4 @@
+import React from "react";
 /**
  * SearchBar
  * Controlled text input that calls `onChange` on every keystroke.
