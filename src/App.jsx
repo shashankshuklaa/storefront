@@ -1,5 +1,4 @@
 import { useState, useCallback } from 'react'
-import { useProducts } from './hooks/useProducts'
 import SearchBar from './components/SearchBar'
 import ProductList from './components/ProductList'
 
