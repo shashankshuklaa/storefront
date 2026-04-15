@@ -1,3 +1,4 @@
+import React from "react";
 import ProductCard from './ProductCard'
 
 /* ─── Skeleton card — shown while data loads ───────────────────────── */
