@@ -1,3 +1,4 @@
+import React from "react";
 import { useState, useCallback } from 'react'
 import { useProducts } from './hooks/useProducts'
 import SearchBar from './components/SearchBar'
